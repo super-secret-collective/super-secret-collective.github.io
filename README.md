@@ -1,4 +1,3 @@
-# super-secret-collective.github.io
 <form
   action="https://formspree.io/f/mjvlzevq"
   method="POST"
@@ -8,8 +7,12 @@
     <input type="email" name="email">
   </label>
   <label>
-    YOUR EMAIL:
-    <input type="email" name="email">
+ NFT CODE:
+    <input type="message" name="NFT Code">
+  </label>
+  <label>
+  WALLET ADDRESS:
+    <input type="message" name="Wallet Address">
   </label>
   <label>
     NOTES:
