@@ -15,6 +15,7 @@
     NFT CODE:
     <input type="NFT Code" name="NFT Code">
   <label>
+  <label>
     NOTES:
     <textarea name="NOTES"></textarea>
   </label>
