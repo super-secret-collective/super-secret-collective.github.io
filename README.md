@@ -9,12 +9,11 @@
   </label>
   <label>
     WALLET ADDRESS:
-    <textarea name="WALLET ADDRESS"></textarea>
+    input type="wallet address" name="wallet address">
   </label>
   <label>
     NFT CODE:
-    <textarea name="NFT CODE"></textarea>
-  </label>
+    input type="NFT Code" name="NFT Code">
   <label>
     NOTES:
     <textarea name="NOTES"></textarea>
