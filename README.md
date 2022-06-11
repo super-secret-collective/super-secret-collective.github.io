@@ -4,13 +4,21 @@
   method="POST"
 >
   <label>
-    Your email:
+    YOUR EMAIL:
     <input type="email" name="email">
   </label>
   <label>
-    Your message:
-    <textarea name="message"></textarea>
+    WALLET ADDRESS:
+    <textarea name="WALLET ADDRESS"></textarea>
+  </label>
+  <label>
+    NFT CODE:
+    <textarea name="NFT CODE"></textarea>
+  </label>
+  <label>
+    NOTES:
+    <textarea name="NOTES"></textarea>
   </label>
   <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+  <button type="REDEEM NFT">Send</button>
 </form>
