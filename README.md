@@ -8,13 +8,9 @@
     <input type="email" name="email">
   </label>
   <label>
-    WALLET ADDRESS:
-    <input type="wallet address" name="wallet address">
+    YOUR EMAIL:
+    <input type="email" name="email">
   </label>
-  <label>
-    NFT CODE:
-    <input type="NFT Code" name="NFT Code">
-  <label>
   <label>
     NOTES:
     <textarea name="NOTES"></textarea>
